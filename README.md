@@ -6,7 +6,7 @@ I'm a computer science undergraduate at NYU, with a minor in mathematics and an 
 
 Currently, I contribute to the **Termolator NLP project at NYU Courant**, focusing on terminology extraction, multilingual pipeline reliability, and corpus evaluation. I also build the frontend of **[Seeding Sage](https://seedingsage.com/)**, a financial-education platform.
 
-[LinkedIn](https://www.linkedin.com/in/gordon-zou) · [Email](mailto:gordonchauhongching@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gordonzou1/?isSelfProfile=true) · [Email](mailto:gordonchauhongching@gmail.com)
 
 ## Selected work
 
@@ -15,8 +15,7 @@ Currently, I contribute to the **Termolator NLP project at NYU Courant**, focusi
 | [Termolator](https://github.com/kechavious/The_Termolator) | NLP · Computational linguistics | Contributions to an existing terminology-extraction system: pipeline refactoring, evaluation across four corpora, and cross-lingual error analysis. |
 | [AG News classification](https://github.com/kechavious/News-Topic-Classification-Using-Machine-Learning-and-Transformer-Based-Models) | Machine learning · Text classification | Collaborative comparison of BERT and TF–IDF baselines, with paired error analysis and auditable evaluation of saved predictions. |
 | [Network topology & diffusion](https://github.com/kechavious/network-topology-diffusion) | Network science · Simulation | A reproducible study of finite-horizon diffusion across random, scale-free, and small-world networks, with independent graph replicates and uncertainty estimates. |
-| [Seeding Sage](https://seedingsage.com/) | Software engineering · Education | Production frontend architecture, reusable content systems, interactive financial tools, CSV import, and CI workflows. |
-| [CloudNine Systems](https://github.com/kechavious/CloudNine_Systems) | Database design | Group design package for a cloud infrastructure information system, with a 30-table logical schema, 3NF analysis, and integrity rules. |
+
 
 ## Research
 
